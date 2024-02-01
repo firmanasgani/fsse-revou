@@ -1,3 +1,4 @@
-const boo = () => {
-    console.log('this is index')
+function boo() {
+    console.log('Booo! This is index')
 }
+boo
